@@ -9,3 +9,4 @@ A growing collection of classic data structures implemented from scratch in Java
 * Doubly Linked List 
 * AVL Tree
 * Binary Search Tree
+* Hash Map
